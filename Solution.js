@@ -1,3 +1,4 @@
+/* Solution to check actual answers with student answers */
 function checkExam(array1, array2) {
     //initialize the score variable and assign zero
     var score = 0;
